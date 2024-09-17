@@ -1,4 +1,4 @@
-# Sweet Launcher - A Simple Game Launcher
+# Game Launcher - A Simple Game Launcher
 
 Sweet Launcher is a lightweight, minimalist game launcher designed for users who want an easy way to organize and launch their existing games without all the extra complexity found in other launchers.
 
